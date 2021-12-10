@@ -753,6 +753,7 @@ local my_language = {
 	create_property = "Créer une propriété",
 	entrance = "Entrée",
 	floors = "Liste des étages",
+	duplicate_floor = "Dupliquer l'étage",
 	save = "Enregistrer",
 	transfer_ownership = "Transfert de propriété: ~g~",
 	real_estate_service = "Honoraires immobilier",
